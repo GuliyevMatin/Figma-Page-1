@@ -1,0 +1,10 @@
+:root{
+    --colorMenuLink:#71A894;
+    --colorBlack : #303031;
+    --colorWhite : #fff;
+    --colorBody:#f9f9f9;
+    --colorGray:#66645E;
+    --robotoFont :"Roboto", sans-serif;
+    --robotoPromt :"Prompt", sans-serif;
+    --robotoBona :"Bona Nova", serif;
+}

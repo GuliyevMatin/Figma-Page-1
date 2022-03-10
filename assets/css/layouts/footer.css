@@ -1,0 +1,13 @@
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 33px 0 31px;
+    background-color: var(--colorBody);
+}
+.footer .logo-text{
+    font-size: 24px;
+}
+.footer .menu-item{
+    font-size: 20px;
+}
